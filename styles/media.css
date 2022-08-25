@@ -1,0 +1,19 @@
+@media screen and (max-width: 768px){
+    body {
+        background-position: center;
+    }
+
+    .li-header {
+        display: none;
+    }
+
+    .li-header-show {
+        display: inline;
+    }
+
+    button {
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+}
